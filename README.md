@@ -12,7 +12,7 @@
 ## Find me on 
 
 <div>
-<a href="linkedin.com/in/ashutosh-singh-parmar-3a6b611b6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ashutosh-singh-parmar-3a6b611b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
 ---
 
