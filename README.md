@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/github/followers/parmAshu?label=Follow&style=social)](https://github.com/parmAshu)
 
 * 🤖 I’m crazy about **Robotics, IoT**, and **Embedded Systems**
-* 💻 I'm also into **Backend Development** and **Computer Networks**
+* 💻 I'm also into **Computer Networks**
 * Writing code for a smarter world
 * Building **circuits** and **robots**
 * 🏍 🚘 Love to ride and drive
